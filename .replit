@@ -1,0 +1,7 @@
+run = ["bash", "main.sh"]
+
+#entrypoint = "main.sh"
+entrypoint = "ISTRUZIONI.md"
+
+[nix]
+channel = "stable-21_11"
